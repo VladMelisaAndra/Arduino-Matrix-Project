@@ -18,6 +18,6 @@ Upon completing the game, players are congratulated on their performance and inf
 - a buzzer
 
 ### Setup picture
-<img src="https://user-images.githubusercontent.com/79593335/208886457-271815a2-692b-4b16-9f9a-c8ec6343ba7f.jpeg" width="320" height="440">
+<img src="https://user-images.githubusercontent.com/79593335/208886457-271815a2-692b-4b16-9f9a-c8ec6343ba7f.jpeg" width="320" height="420">
 
 ### Detailed video of the entire functionality of both the game and the menu
