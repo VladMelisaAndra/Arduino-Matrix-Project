@@ -9,7 +9,7 @@ The Arduino game is a fast-paced, challenging game that utilizes an 8 x 8 LED ma
 
 ### Instruction on how to play
 Once players choose to start the game, they must use the joystick to navigate their character through the matrix, avoiding walls that come at them from the top of the screen. At the beginning of each level, the walls are relatively short, measuring only two units in length. However, as the player progresses, the walls become longer, stretching up to seven units in length; this adds an element of excitement and difficulty to the game. Also, as the player progresses through the levels, the game becomes more difficult, with walls coming faster and more frequently. The current level and score are displayed on the LCD screen, and a buzzer sounds to indicate when the player collides with a wall or advances to the next level.
-Upon completing the game, players are congratulated on their performance and informed when they have beaten the high score and if so, given the option to enter their name.
+Upon completing the game, players are congratulated on their performance and informed when they have beaten the high score and, if so, given the option to enter their name.
 
 ### Used Components
 - Arduino Uno
